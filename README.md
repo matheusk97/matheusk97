@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @matheusk97
 - 👀 I’m interested in Java, Kotlin and Flutter
 - 🌱 I’m currently learning Mobile Development
-- ⚡ Fun fact: Bears eat Beats
+
 
 <!---
 matheusk97/matheusk97 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
