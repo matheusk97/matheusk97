@@ -8,7 +8,6 @@ Desenvolvedor Backend especializado em **Java/Spring** com **7+ anos de experiê
 - **Mobile:** Kotlin, Flutter, Android nativo
 - **Frontend:** Next.js, React, TypeScript
 - **Banco de dados:** PostgreSQL, MySQL, MongoDB
-- **DevOps:** Docker, Git, CI/CD
 
 ### 🌱 Atualmente estudando
 - **Desenvolvimento Web Moderno** com Next.js e React
